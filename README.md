@@ -6,14 +6,14 @@ To analyze sales data and build an interactive dashboard using Power BI.
 ## Tools Used
 - Power BI
 
-## Dashboard Features
+## Features
 - KPI Cards (Sales, Profit, Quantity)
 - Monthly Sales & Profit trends
 - Category & Sub-category analysis
-- Region, Segment, Payment Mode breakdown
+- Region, Segment, Payment Mode analysis
 - Map visualization
-- Forecast analysis
+- Forecast page
 
-## Files Included
+## Files
 - Sales_Dashboard.pbix
 - Sales_Dashboard.pdf
