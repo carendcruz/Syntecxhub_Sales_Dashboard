@@ -1,23 +1,19 @@
-# Sales Performance Dashboard
+# Power BI Sales Dashboard
 
 ## Objective
-Analyze sales data to identify trends, top-performing categories, and regional performance.
+To analyze sales data and build an interactive dashboard using Power BI.
 
 ## Tools Used
-- Microsoft Excel
+- Power BI
 
-## Steps Performed
-- Cleaned dataset (removed duplicates, fixed date format)
-- Created Pivot Tables for analysis
-- Built charts (line, bar, pie)
-- Designed dashboard with KPI
-
-## Key Insights
-- Total Sales: 2,261,537
-- Sales trends vary across months and years
-- Category-wise performance differs
-- Regional sales distribution identified
+## Dashboard Features
+- KPI Cards (Sales, Profit, Quantity)
+- Monthly Sales & Profit trends
+- Category & Sub-category analysis
+- Region, Segment, Payment Mode breakdown
+- Map visualization
+- Forecast analysis
 
 ## Files Included
-- Sales_Dashboard.xlsx
-- Dataset.csv
+- Sales_Dashboard.pbix
+- Sales_Dashboard.pdf
